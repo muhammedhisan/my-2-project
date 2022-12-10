@@ -11929,3 +11929,24 @@ section.w3l-grid-quote h3 {
     margin-top: 2rem; } }
 
 /*# sourceMappingURL=style-starter.css.map */
+.image-last{
+  width: 44px;
+    margin-top: 20px;
+    padding-top: 10px;
+ 
+  margin-left: 613px;
+}
+.image-last2{
+  margin-left: 43px;
+  margin-top: 21px;
+  width: 44px;
+}
+.image-last3{
+  margin-left: 50px;
+  margin-top: 21px;
+  width: 44px;
+}
+.last-section{
+ 
+  background: #000;
+}
